@@ -1,0 +1,709 @@
+Calling from GSCS now
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:40:16 2012
+ Micro Seconds: 683352"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:40:21 2012
+ Micro Seconds: 97759"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:40:25 2012
+ Micro Seconds: 887227"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:40:30 2012
+ Micro Seconds: 782638"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:40:35 2012
+ Micro Seconds: 618634"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:40:40 2012
+ Micro Seconds: 517587"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:40:45 2012
+ Micro Seconds: 274650"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:40:50 2012
+ Micro Seconds: 124101"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:40:54 2012
+ Micro Seconds: 941466"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:40:54 2012
+ Micro Seconds: 983551"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:41:04 2012
+ Micro Seconds: 617878"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:41:09 2012
+ Micro Seconds: 468162"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:41:14 2012
+ Micro Seconds: 290574"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:41:19 2012
+ Micro Seconds: 188110"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:41:23 2012
+ Micro Seconds: 969154"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:41:28 2012
+ Micro Seconds: 856226"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:41:33 2012
+ Micro Seconds: 663202"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:41:38 2012
+ Micro Seconds: 549441"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:41:43 2012
+ Micro Seconds: 756745"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:41:43 2012
+ Micro Seconds: 790115"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:41:53 2012
+ Micro Seconds: 394293"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:41:53 2012
+ Micro Seconds: 432881"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:42:03 2012
+ Micro Seconds: 32656"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:42:07 2012
+ Micro Seconds: 940522"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:42:12 2012
+ Micro Seconds: 694432"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:42:17 2012
+ Micro Seconds: 591457"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:42:22 2012
+ Micro Seconds: 361487"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:42:27 2012
+ Micro Seconds: 221261"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:42:32 2012
+ Micro Seconds: 37189"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:42:32 2012
+ Micro Seconds: 94822"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:42:41 2012
+ Micro Seconds: 733163"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:42:46 2012
+ Micro Seconds: 628627"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:42:51 2012
+ Micro Seconds: 534621"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:42:56 2012
+ Micro Seconds: 420650"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:43:01 2012
+ Micro Seconds: 216086"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:43:01 2012
+ Micro Seconds: 259854"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:43:10 2012
+ Micro Seconds: 865258"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:43:15 2012
+ Micro Seconds: 772869"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:43:20 2012
+ Micro Seconds: 620281"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:43:20 2012
+ Micro Seconds: 650802"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:44:33 2012
+ Micro Seconds: 161379"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:44:38 2012
+ Micro Seconds: 69051"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:44:42 2012
+ Micro Seconds: 830168"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:44:42 2012
+ Micro Seconds: 868528"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:44:52 2012
+ Micro Seconds: 629820"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:44:52 2012
+ Micro Seconds: 673540"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:44:59 2012
+ Micro Seconds: 635329"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:44:59 2012
+ Micro Seconds: 665892"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:49:28 2012
+ Micro Seconds: 390840"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:49:33 2012
+ Micro Seconds: 241816"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:49:38 2012
+ Micro Seconds: 64345"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:49:42 2012
+ Micro Seconds: 960337"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:49:47 2012
+ Micro Seconds: 731334"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:49:52 2012
+ Micro Seconds: 627302"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:49:57 2012
+ Micro Seconds: 481895"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:50:02 2012
+ Micro Seconds: 336776"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:50:07 2012
+ Micro Seconds: 145827"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:50:12 2012
+ Micro Seconds: 7724"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:50:16 2012
+ Micro Seconds: 845887"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:50:21 2012
+ Micro Seconds: 743321"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:50:26 2012
+ Micro Seconds: 539115"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:50:31 2012
+ Micro Seconds: 434591"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:50:36 2012
+ Micro Seconds: 173638"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:50:41 2012
+ Micro Seconds: 80761"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:50:45 2012
+ Micro Seconds: 840458"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:50:50 2012
+ Micro Seconds: 725135"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:50:55 2012
+ Micro Seconds: 469109"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:51:00 2012
+ Micro Seconds: 376603"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:51:05 2012
+ Micro Seconds: 241415"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:51:10 2012
+ Micro Seconds: 136737"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:51:14 2012
+ Micro Seconds: 916972"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:51:19 2012
+ Micro Seconds: 772287"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:51:24 2012
+ Micro Seconds: 619904"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:51:29 2012
+ Micro Seconds: 483224"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:51:34 2012
+ Micro Seconds: 326799"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:51:39 2012
+ Micro Seconds: 234565"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:51:43 2012
+ Micro Seconds: 967099"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:51:48 2012
+ Micro Seconds: 874817"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:52:20 2012
+ Micro Seconds: 836732"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:52:25 2012
+ Micro Seconds: 682075"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:52:30 2012
+ Micro Seconds: 478833"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:52:35 2012
+ Micro Seconds: 386557"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:52:40 2012
+ Micro Seconds: 145771"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:52:45 2012
+ Micro Seconds: 7271"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:52:49 2012
+ Micro Seconds: 823370"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:52:54 2012
+ Micro Seconds: 718858"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:52:59 2012
+ Micro Seconds: 483117"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:53:04 2012
+ Micro Seconds: 390412"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:53:09 2012
+ Micro Seconds: 249534"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:53:14 2012
+ Micro Seconds: 145149"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:53:18 2012
+ Micro Seconds: 891988"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:53:23 2012
+ Micro Seconds: 799716"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:53:28 2012
+ Micro Seconds: 539486"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:53:33 2012
+ Micro Seconds: 434756"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:53:38 2012
+ Micro Seconds: 173782"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:53:43 2012
+ Micro Seconds: 80912"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:53:47 2012
+ Micro Seconds: 861120"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:53:52 2012
+ Micro Seconds: 747051"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:53:57 2012
+ Micro Seconds: 526021"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:54:02 2012
+ Micro Seconds: 407692"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:54:07 2012
+ Micro Seconds: 169439"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:54:12 2012
+ Micro Seconds: 67438"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:54:16 2012
+ Micro Seconds: 904535"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:54:21 2012
+ Micro Seconds: 811655"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:54:26 2012
+ Micro Seconds: 599668"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:54:31 2012
+ Micro Seconds: 508346"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:54:36 2012
+ Micro Seconds: 293851"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:54:41 2012
+ Micro Seconds: 145465"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:54:45 2012
+ Micro Seconds: 962456"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:54:50 2012
+ Micro Seconds: 869843"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:54:55 2012
+ Micro Seconds: 628314"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:55:00 2012
+ Micro Seconds: 517612"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:55:05 2012
+ Micro Seconds: 279537"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:55:10 2012
+ Micro Seconds: 163660"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:55:14 2012
+ Micro Seconds: 967708"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:55:19 2012
+ Micro Seconds: 874944"
+Comment="This is the GPS-Synched Time for Shutter Closing"
+[Entry 0]
+Type=String
+Keyword=Open Time
+Value="Wed Oct 03 19:55:24 2012
+ Micro Seconds: 725615"
+Comment="This is the GPS-Synched Time for Shutter Opening"
+[Entry 1]
+Type=String
+Keyword=Close Time
+Value="Wed Oct 03 19:55:29 2012
+ Micro Seconds: 623398"
+Comment="This is the GPS-Synched Time for Shutter Closing"

@@ -1,0 +1,41 @@
+This is version 1.5 of the SOAR Communications Library New (SCLN)
+
+The following was upgraded/changed in V1.5:
+
+- A race condition was fixed on Init_client and Init_Servers
+
+- The error condition is now handled correctly on MessageToServer and
+  GetResponseFromServer.
+  
+- All ServerLoops now recreate the listener after an error condition.
+
+- A new function to abort or release stuck Servers was created. 
+  This made necessary to modify the
+  InitGlobals, Authenticate and all ServerReadWriteMessage VIs.
+  
+- ExampleServer was updated to include this new abort server function.
+
+- ExampleClient was cleaned.
+
+The following was upgraded/changed in V1.4:
+
+- The Servers.vi was changed completely to have a more ordered
+  initialization of the server side of the library. This should 
+  also fix some pending issues when reconnecting.
+
+The following was upgraded/changed in V1.3:
+
+- A restart condition error when a client or server disconnected was
+  fixed. The error inhibited an automatic reconnection of the
+  applications.
+  
+ - The queues utilized internally were upgraded to the native LabVIEW
+   queues.
+   
+ - A limit was imposed in the number of bytes transmitted in a
+   single transaction of the package. The limit is 32767 bytes.
+    
+ - The "Wait(ms)" functions were replaced by the "Wait Until Next 
+   ms Multiple" function, to have similar wait times under Linux
+   and Windows.
+   

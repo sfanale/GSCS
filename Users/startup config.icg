@@ -1,0 +1,10 @@
+[HEADER]
+Name="startup config"
+User=crain
+Date=1/30/2004
+[DOUBLE_PARAMETERS]
+CS Target=15.000000
+GS Target=20.400000
+[INT_PARAMETERS]
+Coll Target=0
+CF Target=0

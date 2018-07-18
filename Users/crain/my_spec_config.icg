@@ -1,0 +1,12 @@
+[HEADER]
+Name=my_spec_config
+User=crain
+Date=3/16/2004
+[STRING_PARAMETERS]
+Filter1=Rj
+Filter2=V
+SlitMask=Mask4
+Grating=Grating5
+[DOUBLE_PARAMETERS]
+CS Target=28.955035
+GS Target=14.477517
