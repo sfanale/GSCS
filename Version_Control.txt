@@ -1,0 +1,28 @@
+New Procedures for GSCS version Control
+June 15, 2012
+
+Section One: Version Control Procedures
+
+-Dated copies of GSCS will be archived in the BACKUP_GSCS folder on the desktop.
+
+-The Goodman control panel will always be run out of the GSCS folder on the desktop, where the current version of the software is kept.
+
+-Any changes to the software will first be coded into the copy of the software kept in the ALPHA_GSCS folder on the desktop.
+
+-After testing the changes by running the alpha version of the software, the changes will be implemented in one of two ways:
+	
+	1. For small changes that do not change the code structure or data flow, list and date the changes at the bottom of this document under the heading "Changes Since Backup On YYYY-MM-DD" as they are implemented in the current code.
+	
+	2. For larger changes, a backup of the entire GSCS folder should be archived, named yyyy-mm-dd_GSCS.zip, and put into the BACKUP_GSCS folder on the desktop. The changes may then be implemented for the current version of the code. A new section should then be added to the bottom of this document with the heading "Changes Since Backup On YYYY-MM-DD" with the date that the archive was made. 
+
+
+Section Two: Software Change Log
+
+	Changes Since Backup On 2012-10-02
+
+-Added Zach's GPS timing VIs to GPS_Drivers in the SIcamera_control folder.
+-Added a multislit tool button to the front panel.
+-SIcamera_manager now writes exp time to a global variable used by the shutter capture program for error checking.
+
+	Changes Since Backup on 2013-01-29
+-

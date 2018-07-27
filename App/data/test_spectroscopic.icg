@@ -1,0 +1,15 @@
+[HEADER]
+Name=test_spectroscopic
+User=crain
+Date=3/2/2004
+[STRING_PARAMETERS]
+Filter1=U
+Filter2=Ij
+SlitMask=SuperMask
+Grating=Grating3
+[DOUBLE_PARAMETERS]
+CS Target=15.000000
+GS Target=20.400000
+[INT_PARAMETERS]
+Coll Target=1200
+CF Target=0

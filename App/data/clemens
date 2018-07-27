@@ -1,0 +1,13 @@
+[default]
+User=FALSE
+Date=FALSE
+Comment=FALSE
+Filter1="<NO FILTER>"
+Filter2="<NO FILTER>"
+SlitMask="<NO MASK>"
+Grating="<NO GRATING>"
+CS Target=0.000000
+GS Target=0.000000
+Coll Target=0
+CF Target=0
+USE_FLEX_COMP=FALSE

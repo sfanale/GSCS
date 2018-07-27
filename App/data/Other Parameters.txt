@@ -1,0 +1,250 @@
+[Entry 0]
+Type=String
+Keyword=TELESCOP
+Value="SOAR 4.1m"
+Comment=""
+[Entry 1]
+Type=String
+Keyword=INSTRUME
+Value="Goodman Spectrograph"
+Comment=""
+[Entry 2]
+Type=String
+Keyword=OBJECT
+Value=""
+Comment=""
+[Entry 3]
+Type=String
+Keyword=NOTES
+Value=""
+Comment=""
+[Entry 4]
+Type=String
+Keyword=RA
+Value=""
+Comment="right ascension [hh:mm:ss.sss]"
+[Entry 5]
+Type=String
+Keyword=DEC
+Value=""
+Comment="declination [dd:mm:ss.sss]"
+[Entry 6]
+Type=Numeric
+Keyword=AIRMASS
+Value=0.000000
+Comment="airmass at approx. start of exposure"
+[Entry 7]
+Type=String
+Keyword=UT
+Value=""
+Comment="time at approx. start of exposure [UTC]"
+[Entry 10]
+Type=Numeric
+Keyword=FOCUS
+Value=0.000000
+Comment="SOAR telescope focus"
+[Entry 11]
+Type=Numeric
+Keyword=MOUNT_AZ
+Value=0.000000
+Comment="SOAR mount azimuth"
+[Entry 12]
+Type=Numeric
+Keyword=MOUNT_EL
+Value=0.000000
+Comment="SOAR mount elevation"
+[Entry 13]
+Type=Numeric
+Keyword=ROTATOR
+Value=0.000000
+Comment="Nasymth cage rotator angle [deg]"
+[Entry 14]
+Type=Numeric
+Keyword=POSANGLE
+Value=0.000000
+Comment="position angle [deg. E of N]"
+[Entry 15]
+Type=Numeric
+Keyword=SEEING
+Value=0.000000
+Comment="DIMM seeing [arcsec]"
+[Entry 16]
+Type=String
+Keyword=LST
+Value=""
+Comment="Local Sidereal Time  [hh:mm:ss.sss]"
+[Entry 17]
+Type=String
+Keyword=OBSRA
+Value=""
+Comment="target right ascension [hh:mm:ss.sss]"
+[Entry 18]
+Type=String
+Keyword=OBSDEC
+Value=""
+Comment="target declination  [hh:mm:ss.sss]"
+[Entry 19]
+Type=Numeric
+Keyword=DOME_AZ
+Value=0.000000
+Comment="SOAR Dome Shutter azimuth"
+[Entry 20]
+Type=String
+Keyword=HA
+Value=""
+Comment="Hour Angle  [hh:mm:ss.sss]"
+[Entry 21]
+Type=String
+Keyword=ADCSTAT
+Value=""
+Comment="ADC Status"
+[Entry 22]
+Type=String
+Keyword=ADCPOS
+Value=""
+Comment="ADC Position"
+[Entry 23]
+Type=Numeric
+Keyword=CAM_ANG
+Value=12.210000
+Comment="camera angle [deg]"
+[Entry 24]
+Type=Numeric
+Keyword=GRT_ANG
+Value=20.740000
+Comment="grating angle [deg]"
+[Entry 25]
+Type=Numeric
+Keyword=CAM_TARG
+Value=0.000000
+Comment="camera target [deg]"
+[Entry 26]
+Type=Numeric
+Keyword=GRT_TARG
+Value=0.000000
+Comment="grating target [deg]"
+[Entry 27]
+Type=Numeric
+Keyword=CAM_FOC
+Value=0
+Comment="camera focus"
+[Entry 28]
+Type=Numeric
+Keyword=COLL_FOC
+Value=3
+Comment="collimator focus"
+[Entry 29]
+Type=String
+Keyword=FILTER
+Value="<NO FILTER>"
+Comment="primary filter wheel"
+[Entry 30]
+Type=String
+Keyword=FILTER2
+Value="<NO FILTER>"
+Comment="secondary filter wheel"
+[Entry 31]
+Type=String
+Keyword=GRATING
+Value="<NO GRATING>"
+Comment="VPH grating [1/mm]"
+[Entry 32]
+Type=String
+Keyword=SLIT
+Value="<NO MASK>"
+Comment="slit [arcsec]"
+[Entry 33]
+Type=Numeric
+Keyword=COL_TEMP
+Value=0.000000
+Comment="coll ext temp (deg C)"
+[Entry 34]
+Type=Numeric
+Keyword=CAM_TEMP
+Value=-50.000000
+Comment="cam ext temp (deg C)"
+[Entry 35]
+Type=Numeric
+Keyword=EXPTIME
+Value=1.000000
+Comment="integration time"
+[Entry 36]
+Type=Numeric
+Keyword=RDNOISE
+Value=3.990000
+Comment="CCD readnoise [e-]"
+[Entry 37]
+Type=Numeric
+Keyword=GAIN
+Value=2.060000
+Comment="CCD gain [e-/ADU]"
+[Entry 38]
+Type=String
+Keyword=OBSTYPE
+Value="OBJECT"
+Comment="observation type"
+[Entry 39]
+Type=String
+Keyword=OBSERVER
+Value=""
+Comment=""
+[Entry 40]
+Type=String
+Keyword=PROPOSAL
+Value=""
+Comment=""
+[Entry 41]
+Type=Numeric
+Keyword=EQUINOX
+Value=2000.000000
+Comment="equinox of coordinates"
+[Entry 42]
+Type=Numeric
+Keyword=ENVWIN
+Value=0.000000
+Comment="Wind Speed [km/hr] at start of exposure"
+[Entry 43]
+Type=Numeric
+Keyword=ENVPRE
+Value=0.000000
+Comment="Atmospheric Pressure [hPS] at start of exposure"
+[Entry 44]
+Type=Numeric
+Keyword=ENVDIR
+Value=0.000000
+Comment="Wind Direction at start of exposure"
+[Entry 45]
+Type=Numeric
+Keyword=ENVTEM
+Value=0.000000
+Comment="Outside Temperature [C] at start of exposure"
+[Entry 46]
+Type=Numeric
+Keyword=ENVHUM
+Value=0.000000
+Comment="Relative Humidity at start of exposure"
+[Entry 59]
+Type=Numeric
+Keyword=DISPAXIS
+Value=1
+Comment=""
+[Entry 60]
+Type=String
+Keyword=DETSIZE
+Value="[1:4096,1:4096]"
+Comment=""
+[Entry 62]
+Type=String
+Keyword=TRIMSEC
+Value="[1:4096,1:4096]"
+Comment=""
+[Entry 65]
+Type=String
+Keyword=CCDSIZE
+Value="[1:4096,1:4096]"
+Comment=""
+[Entry 66]
+Type=String
+Keyword=CCDSUM
+Value="1 1"
+Comment=""

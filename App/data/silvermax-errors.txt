@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<nidocument>
+<nicomment>
+
+</nicomment>
+<nierror code="5002">
+Silvermax - Motor Kill Condition
+
+Motor has reached a kill condition, usually a result of mechanical interference.
+</nierror>
+<nierror code="5000">
+Unknown reponse from Silvermax
+</nierror>
+<nierror code="5001">
+Silvermax NAK
+</nierror>
+<nierror code="5003">
+Silvermax - Aborted packet
+
+There was a data error or a new packet was recevied before the last packet was complete.
+</nierror>
+<nierror code="5004">
+Silvermax - Receive Checksum Error
+
+The 9-bit checksum received did not match the checksum sent; the packet was ignored.
+</nierror>
+<nierror code="5005">
+Silvermax - Soft Limit
+
+A soft stop limit was reached by the Soft Stop Limit (SSL) command.
+</nierror>
+<nierror code="5006">
+Silvermax - Framing Error
+
+There wa a packet framing error in a received byte.
+</nierror>
+<nierror code="5007">
+Silvermax - Message Too Long
+
+The received message was longer than 31 bytes.
+</nierror>
+<nierror code="5008">
+Silvermax - CKS Condition Met
+
+One of the conditions set with the Check Internal Status (CKS) command was met.
+</nierror>
+<nierror code="5009">
+Silvermax - Receiver Overflow
+
+The Silvermax serial recevier buffer overflowed.
+</nierror>
+<nierror code="5010">
+Silvermax - Moving Error
+
+Moving error limit set with the ERL command was exceeded with Silvermax in a moving control state.
+</nierror>
+<nierror code="5011">
+Silvermax - Holding Error
+
+Holding error limit set by the Error Limits (ERL) command exceeded with Silvermax in a holding control state.
+</nierror>
+<nierror code="5012">
+Silvermax - Low/Over Voltage
+
+A low or over voltage error occurred.
+</nierror>
+<nierror code="5013">
+Silvermax - Move Stopped on Input
+
+A move stopped due to a stop on input condition
+</nierror>
+<nierror code="5014">
+Silvermax - Command Error
+
+There was an error associated with the command execution.
+</nierror>
+<nierror code="5015">
+Silvermax - NVM Checksum Error
+
+There was a checksum error while reading data from non-volatile memory
+</nierror>
+</nidocument>

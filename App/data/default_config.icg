@@ -1,0 +1,12 @@
+[HEADER]
+Name=default_config
+User=crain
+Date=3/4/2004
+[STRING_PARAMETERS]
+Filter1=U
+Filter2=J
+SlitMask=Mask4
+Grating=Grating3
+[DOUBLE_PARAMETERS]
+CS Target=28.955035
+GS Target=14.477517

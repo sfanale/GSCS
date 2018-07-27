@@ -1,0 +1,9 @@
+#,Name, Obj name, Color, File base, Exp time, #of Exp, RO speed, ROI, Exp type, Notes, Config path 
+,,,,0,0,0,0,0,,
+,,,,0,0,0,0,0,,
+,,,,0,0,0,0,0,,
+,,,,0,0,0,0,0,,
+,,,,0,0,0,0,0,,
+,,,,0,0,0,0,0,,
+,,,,0,0,0,0,0,,
+,,,,0,0,0,0,0,,
